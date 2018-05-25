@@ -4,7 +4,7 @@
 
 The following project uses Python with the Django framework to create the Harmonic Culture website.
 
-The website can be found here: [Harmonic Culture](harmoniccultures.com)
+The website can be found here: [Harmonic Culture](http://harmoniccultures.com/)
 
 Harmonic Culture is a startup project founded by Ventura Rivera and Erica Keane. They work to eliminate the use of glass and plastic containers with their invention, the *Bev Station*.
 
